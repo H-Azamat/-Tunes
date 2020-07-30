@@ -19,6 +19,7 @@ playerBtn.forEach((btn, i) => {
 
         btn.classList.add('active');
         playerBlock[i].classList.add('active');
+
     });
 });
 
